@@ -6,11 +6,6 @@ I help organizations in healthcare, legal, finance, and compliance turn internal
 
 PhD in Explainable AI, with clinical research at St. Olavs Hospital. Five years of hardware engineering before AI, which is why I treat "production-ready" as an engineering claim, not a marketing one.
 
-Along the way:
-- PhD in Explainable AI, with clinical research at St. Olavs Hospital
-- Built a production-grade Q&A system over the full EU AI Act, with hybrid retrieval and LLM-as-judge evaluation
-- 5 years of hardware engineering before AI: PCB design, embedded systems, field application engineering
-
 ### Featured Work
 
 🔍 **EU AI Act Q&A System** — Production-grade RAG over the full EU AI Act, with hybrid retrieval, RAGAS evaluation, and LLM-as-judge regression testing.
