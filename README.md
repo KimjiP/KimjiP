@@ -25,4 +25,3 @@ Python, FastAPI, LangChain, LangGraph, pgvector, ChromaDB, hybrid retrieval and 
 🌐 [signalsyntax.no](https://signalsyntax.no)  
 💼 [LinkedIn](https://linkedin.com/in/kimjipellano)  
 📅 [Book a 30-min discovery call](https://cal.eu/kimpellano)  
-✉️ kim@signalsyntax.dev
