@@ -14,8 +14,11 @@ PhD in Explainable AI, with clinical research at St. Olavs Hospital. Five years 
 
 ### Featured Work
 🛒 **Retail Shelf Object Detection** — Dense-scene detection with YOLOv8 at 1280px; validated at NM i AI.
+
 🏥 **Explainable Medical Imaging** — Deep learning for clinical diagnosis with Grad-CAM/CAM explanations (PhD, St. Olavs Hospital).
+
 📄 **EU AI Act Q&A System** — Production-grade RAG over the full EU AI Act with hybrid retrieval and structured evaluation.
+
 🤖 **Multi-Agent Research System** — LangGraph orchestration with confidence-weighted synthesis.
 
 ### Tech Stack
