@@ -28,6 +28,9 @@ Python, PyTorch, scikit-learn, OpenCV, YOLO, ONNX, pandas, NumPy, FastAPI, LangC
 
 ### Let's Talk
 🌐 signalsyntax.no
+
 💼 LinkedIn: linkedin.com/in/kimjipellano
-📅 Book a 30-min discovery call: cal.eu/kimpellano
+
+📅 Book a call with me: cal.eu/kimpellano
+
 ✉️ kim@signalsyntax.dev
