@@ -32,5 +32,3 @@ Python, PyTorch, scikit-learn, OpenCV, YOLO, ONNX, pandas, NumPy, FastAPI, LangC
 💼 LinkedIn: linkedin.com/in/kimjipellano
 
 📅 Book a call with me: cal.eu/kimpellano
-
-✉️ kim@signalsyntax.dev
